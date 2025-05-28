@@ -1,4 +1,4 @@
-Stock Price Visualizer
+## Stock Price Visualizer
 
 A beginner-friendly Python project that fetches and visualizes the last 30 days of stock prices using `yfinance`.
 
