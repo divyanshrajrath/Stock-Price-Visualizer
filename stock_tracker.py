@@ -26,5 +26,5 @@ def fetch_and_plot_stock(symbol):
     print(f"Plot saved as {filename}")
 
 if __name__=='__main__':
-    symbol=input("Enter the stock symbol (eg. AAPL, TSLA)").upper()
+    symbol=input("Enter the stock symbol (eg. AAPL, TSLA): ").upper()
     fetch_and_plot_stock(symbol)
